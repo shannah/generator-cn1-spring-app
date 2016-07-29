@@ -1,0 +1,19 @@
+{
+  "name": "generator-cn1-spring-app",
+  "version": "0.1.0",
+  "description": "Generates a client-server app with Codename One and Spring",
+  "files": [
+    "app",
+    "router"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "codename-one",
+    "spring",
+    "cn1",
+    "codenameone"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}
